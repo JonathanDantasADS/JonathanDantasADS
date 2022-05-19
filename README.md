@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Jonathan Dantas <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
- <hr/>
+
 <div style="display: inline_block" align="center">
   <a href="https://github.com/JonathanDantasADS">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JonathanDantasADS&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
